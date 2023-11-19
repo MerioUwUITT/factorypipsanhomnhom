@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\bin\Debug\net6.0\FactoryPipsaÑomÑom.exe
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\bin\Debug\net6.0\FactoryPipsaÑomÑom.deps.json
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\bin\Debug\net6.0\FactoryPipsaÑomÑom.runtimeconfig.json
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\bin\Debug\net6.0\FactoryPipsaÑomÑom.dll
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\bin\Debug\net6.0\FactoryPipsaÑomÑom.pdb
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.AssemblyInfo.cs
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.dll
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\refint\FactoryPipsaÑomÑom.dll
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.pdb
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\FactoryPipsaÑomÑom.genruntimeconfig.cache
+C:\Users\Mario\source\repos\FactoryPipsaÑomÑom\obj\Debug\net6.0\ref\FactoryPipsaÑomÑom.dll
